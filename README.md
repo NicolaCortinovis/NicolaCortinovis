@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://NicolaCortinovis.github.io">
-    <img src="https://img.shields.io/badge/Website-NicolaCortinovis.github.io-0A66C2?style=flat-square" alt="Website" />
-  </a>
   <a href="https://www.linkedin.com/in/nicola-cortinovis/">
     <img src="https://img.shields.io/badge/LinkedIn-Nicola--Cortinovis-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -15,10 +12,12 @@
 
 ---
 
+
+## Who am I
+
+
 ## Featured Projects
 
 | Project | Scope |
 | --- | --- |
 
-
-## Background
