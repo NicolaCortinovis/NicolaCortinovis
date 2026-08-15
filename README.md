@@ -1,7 +1,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp; :mortar_board: &nbsp; MSc and BSc in Data Science & Artificial Intelligence at [University of Trieste](https://portale.units.it/it) \
-&nbsp;&nbsp;&nbsp; :eye: &nbsp;Interested in building practical AI systems, with a focus on NLP, and Explainable AI\
+&nbsp;&nbsp;&nbsp; :eye: &nbsp; Interested in building practical AI systems, with a focus on NLP, and Explainable AI\
 &nbsp;&nbsp;&nbsp; :technologist: &nbsp; Curious about emerging AI methods and always looking for new problems to explore \
 &nbsp;&nbsp;&nbsp; :chess_pawn: &nbsp; Passionate about board games and history
 
